@@ -69,5 +69,5 @@ Lista de Tareas
 - Capacitación a usuarios en sus diferentes roles
 - Capacitación Jefe operativo (funcionalidad y reportes) 
 
-![Arquitectura](https://github.com/eisjgd2019/arqui_gestion_documental/blob/master/Arquitectura%20Cliente_servidor.jpg)
+![Arquitectura](https://github.com/eisjgd2019/PlaneacionEstimacion/blob/master/EDT%20FIX%20MACHINE.jpg)
 
