@@ -73,4 +73,6 @@ Lista de Tareas
 
 ![Arquitectura](https://github.com/eisjgd2019/PlaneacionEstimacion/blob/master/Organigrama%20FIX%20MACHINE.jpg)
 
+![Arquitectura](https://github.com/eisjgd2019/PlaneacionEstimacion/blob/master/flujograma.jpg)
+
 
