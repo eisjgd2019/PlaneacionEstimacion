@@ -75,4 +75,10 @@ Lista de Tareas
 
 ![Arquitectura](https://github.com/eisjgd2019/PlaneacionEstimacion/blob/master/flujograma.jpg)
 
+Integrantes: 
+============
+
+- Gustavo Adolfo Morales Hernandez cod: 20191099034
+- Jimmy Herley Amaya Orjuela cod: 20191099024
+- Diego Armando Velez Peralta cod: 20191099042
 
